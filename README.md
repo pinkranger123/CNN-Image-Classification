@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 Preprocessing: python preprocess_data.py
 Model Training: python train_model.py
-Evaluation and Prediction: python evaluate_predict.py
+Evaluation and Prediction: CNN_FNA.py
 
 ## Directory Structure 
 
@@ -60,10 +60,10 @@ Evaluation and Prediction: python evaluate_predict.py
     - benign/
     - malignant/
   - test/
-- preprocess_data.py
-- train_model.py
-- evaluate_predict.py
-- requirements.txt
+- preprocess data
+- train model
+- evaluate predict
+- requirements 
 - README.md
 
 
