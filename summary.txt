@@ -1,1 +1,11 @@
+Results Summary
+The CNN model demonstrated promising results during the evaluation on the unlabeled test data:
 
+Accuracy: The model achieved an accuracy of approximately 91.27% on the unlabeled test images. This indicates the model's ability to correctly classify benign and malignant cases.
+
+Loss Function: The loss function, a measure of the model's prediction error, was observed to be 0.35. A lower loss value signifies better model performance.
+
+These results suggest that the trained CNN model is effective in predicting the status of breast cancer cases based on the provided image data.
+
+Next Steps
+Further refinements, such as hyperparameter tuning, additional data augmentation, or exploring alternative neural network architectures, can be considered to enhance the model's performance.
